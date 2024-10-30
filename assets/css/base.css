@@ -1,0 +1,3 @@
+.temp-card {
+  @apply bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700;
+}
